@@ -19,7 +19,7 @@ Preuzmi lekcije:
 $ git clone https://github.com/skolakoda/ucimo-typescript.git
 ```
 
-## Proces rada
+## Izvršenje
 
 - u app.ts fajlu pišemo izvorni kod
 - kompajliramo ga preko konzole komandom tsc:
