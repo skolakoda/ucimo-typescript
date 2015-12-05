@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "out": "built/app.js",
+        "sourceMap": true
+    },
+    "files": [
+        "app.ts"
+    ]
+}
