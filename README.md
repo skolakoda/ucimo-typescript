@@ -24,4 +24,4 @@ $ git clone https://github.com/skolakoda/ucimo-typescript.git
 ```
 $ tsc ap.ts
 ```
-- pokrećemo ga iz prevedenog app.js fajla
+- pokrećemo prevedeni app.js fajl
