@@ -1,11 +1,3 @@
-/*
-    - u ts fajlu pišemo izvorni kod
-    - kompajliramo ga preko konzole
-    - izvršavamo ga iz prevedenog js fajla
-
-    - sav validan Javascript već radi u Typescript-u
-    - plus mnoge EcmaScript6 opcije
-*/
 var Covek = (function () {
     function Covek() {
     }
@@ -17,3 +9,4 @@ var Covek = (function () {
 var cika = new Covek();
 cika.pozdrav();
 var ime = "Daman";
+console.log(ime);
