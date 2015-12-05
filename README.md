@@ -19,5 +19,8 @@ $ git clone https://github.com/skolakoda/ucimo-typescript.git
 
 ## Proces rada
 - u app.ts fajlu pišemo izvorni kod
-- kompajliramo ga preko konzole komandom tsc (```tsc ap.ts```)
+- kompajliramo ga preko konzole komandom tsc:
+```
+tsc ap.ts
+```
 - pokrećemo ga iz prevedenog app.js fajla
