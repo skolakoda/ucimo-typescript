@@ -1,3 +1,4 @@
+// ts podržava ES6 klase
 class Covek {
     pozdrav() {
         console.log("Zdravo");
@@ -7,5 +8,8 @@ class Covek {
 var cika = new Covek();
 cika.pozdrav();
 
+// opciono eksplicira tip promenljive
 var ime: string = "Daman";
-console.log(ime);
+
+// ts podržava ES6 template strings
+console.log(`Zdravo moje ime je ${ime}.`);
