@@ -1,4 +1,4 @@
-// interfejs pravi novi tip podatka prilagodjen nasim potrebama
+// pomocu interfejsa pravimo novi tip podataka prilagodjen nasim potrebama
 
 interface Osoba {
     ime: string;
