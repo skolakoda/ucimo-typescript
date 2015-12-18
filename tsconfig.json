@@ -6,8 +6,5 @@
         "preserveConstEnums": true,
         "out": "built/app.js",
         "sourceMap": true
-    },
-    "files": [
-        "app.ts"
-    ]
+    }
 }
