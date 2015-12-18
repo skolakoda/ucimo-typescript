@@ -27,7 +27,7 @@ Za svaku lekciju u app.ts fajlu pišemo izvorni kod.
 ```
 tsc app.ts
 ```
-- zatim pokrećemo prevedeni app.js fajl:
+- zatim pokrećemo prevedeni .js fajl:
 ```
 node app.js
 ```
