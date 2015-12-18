@@ -1,6 +1,9 @@
+// interfejs pravi novi tip podatka prilagodjen nasim potrebama
+
 interface Osoba {
     ime: string;
     prezime: string;
+    zaposlen?: boolean; // ? znaci da je opciono
 }
 
 var sokrat = {
