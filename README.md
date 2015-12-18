@@ -11,12 +11,12 @@ TypeScript je razvio Microsoft za potrebe razvoja velikih aplikacija. Objavljen 
 
 Instaliraj Typescript:
 ```
-$ npm install -g typescript
+npm install -g typescript
 ```
 
 Preuzmi lekcije:
 ```
-$ git clone https://github.com/skolakoda/ucimo-typescript.git
+git clone https://github.com/skolakoda/ucimo-typescript.git
 ```
 
 ## Izvršenje
@@ -24,6 +24,6 @@ $ git clone https://github.com/skolakoda/ucimo-typescript.git
 - u app.ts fajlu pišemo izvorni kod
 - kompajliramo ga preko konzole komandom tsc:
 ```
-$ tsc ap.ts
+tsc ap.ts
 ```
 - pokrećemo prevedeni app.js fajl
