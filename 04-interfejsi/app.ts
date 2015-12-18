@@ -1,10 +1,10 @@
-interface Person {
+interface Osoba {
     ime: string;
     prezime: string;
 }
 
-function zdravo(person : Person) {
-    console.log("Zdravo, " + person.ime + " " + person.prezime);
+function zdravo(osoba : Osoba) {
+    console.log("Zdravo, " + osoba.ime + " " + osoba.prezime);
 }
 
 var sokrat = {ime: "Sokrat", prezime: "Atinski"};
