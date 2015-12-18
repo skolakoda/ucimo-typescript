@@ -8,8 +8,8 @@ var sokrat = {
     prezime: "Atinski"
 };
 
-function zdravo(osoba: Osoba) {
+function pozdrav(osoba: Osoba) {
     console.log("Zdravo, " + osoba.ime + " " + osoba.prezime);
 }
 
-zdravo(sokrat);
+pozdrav(sokrat);
