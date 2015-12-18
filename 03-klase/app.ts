@@ -5,5 +5,5 @@ class Covek {
     }
 }
 
-var cika = new Covek();
-cika.pozdrav();
+var daman = new Covek();
+daman.pozdrav();

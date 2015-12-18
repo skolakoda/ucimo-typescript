@@ -29,3 +29,8 @@ Zatim pokrećemo prevedeni .js fajl:
 ```
 node app.js
 ```
+
+Ako želiš da izvršavaš ts bez kompajliranja, potrebno je instalirati [ts-node](https://www.npmjs.com/package/ts-node)
+```
+npm install -g ts-node
+```
