@@ -1,6 +1,6 @@
 // ts izbacuje gresku kada prosledis drugaciji tip od propisanog
 function zdravo(ime: string) {
-    console.log("Zdravo, " + ime);
+    console.log("Zdravo moje ime je: " + ime);
 }
 
 zdravo(4);
