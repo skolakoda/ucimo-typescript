@@ -33,4 +33,10 @@ node app.js
 Ako želiš izvršavati ts bez kompajliranja, potrebno je instalirati [ts-node](https://www.npmjs.com/package/ts-node)
 ```
 npm install -g ts-node
+ts-node app.ts
+```
+
+Za automatsko motrenje i kompajliranje ts fajlove, dovoljno je pokrenuti:
+```
+tsc -w
 ```
