@@ -4,7 +4,7 @@
 var ime: string = "Daman";
 // broj
 var godine : number = 16;
-// bulovski
+// bul
 var haker : boolean = true;
 
 // niz
