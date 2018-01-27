@@ -11,8 +11,8 @@ var sokrat = {
     prezime: "Atinski"
 };
 
-function pozdrav(osoba: Osoba) {
-    console.log("Zdravo, " + osoba.ime + " " + osoba.prezime);
+function pozdrav(covek: Osoba) {
+    console.log("Zdravo, " + covek.ime + " " + covek.prezime);
 }
 
 pozdrav(sokrat);
